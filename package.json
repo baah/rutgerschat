@@ -1,0 +1,15 @@
+{
+  "name": "rutgerschat",
+  "version": "1.0.0",
+  "description": "Simple chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Duodu-Baah",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
